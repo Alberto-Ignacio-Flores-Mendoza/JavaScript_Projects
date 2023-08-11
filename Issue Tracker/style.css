@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.jumbotron{
+background: #f0eded;
+padding: 20px;
+margin: 10px;
+border-radius: 5px;
+}
+
+.container{
+    padding: 20px;
+}
+
+.well{
+    margin: 10px;
+    padding: 10px;
+    background: #f0eded;
+    border-radius: 5px;
+}
+.label-info{
+    background: #67a1ee;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+.form-group{
+margin: 10px;
+       
+}
+
+.well h6{
+    margin-bottom: 2%;
+    font-size: 15px;
+    font-weight: bold;
+}
+.well h3{
+    
+    font-weight: bold;
+}
+
+.well p{
+    margin-bottom: 2%;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+h1 p{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.jumbotron h3{
+    
+
+}
+
+.form-group label{
+    
+
+}
+
+.form-group input, select{
+    
+
+}
+
+button{
+  
+}
